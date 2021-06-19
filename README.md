@@ -18,4 +18,7 @@ profile = {
 
 ## Social Medias
 
-[![TWITTER](https://i.ibb.co/VvjHLjk/TWITTER.png)](https://twitter.com/Erikles47) [![TWITCH](https://i.ibb.co/3MDk6VF/TWITCH.png)](https://www.twitch.tv/g_e_zu)  [![LinkedIn](https://i.ibb.co/pQQZ6Xz/LINKEDIN.png)](https://www.linkedin.com/in/jos%C3%A9-costa-1063121a7/)  [![INSTAGRAM](https://i.ibb.co/Y3SR8qR/INSTAGRAM.png)](https://www.instagram.com/_geyzon_/) 
+[![TWITTER](https://i.ibb.co/QJnYRNx/icons8-twitter-48.png)](https://twitter.com/Erikles47)
+[![TWITCH](https://i.ibb.co/HKWV6SD/icons8-twitch-48.png)](https://www.twitch.tv/g_e_zu)
+[![LinkedIn](https://i.ibb.co/FnGySfM/icons8-linkedin-48.png)](https://www.linkedin.com/in/jos%C3%A9-costa-1063121a7/)
+[![INSTAGRAM](https://i.ibb.co/6tMbs7j/icons8-instagram-48.png)](https://www.instagram.com/_geyzon_/)
