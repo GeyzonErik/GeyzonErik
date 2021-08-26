@@ -13,8 +13,6 @@ profile = {
 >:snowflake: I'm current studying JavaScript
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeyzonErik&show_icons=true&border_radius=12&hide_border=true&title_color=3498db&icon_color=3498db)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeyzonErik&layout=compact&border_radius=12&hide_border=true&title_color=3498db&icon_color=3498db)
-
 
 ## Social Medias
 
