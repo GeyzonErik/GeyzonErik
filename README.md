@@ -11,7 +11,8 @@ profile = {
 
 HI, You can call me Geyzon!
 
-Started in the Programming World in the second semester of 2020, this took me change my undergraduate program from Mechanical Eng to Computer Science
+Started in the Programming World in the second semester of 2020, this took me change my undergraduate program from Mechanical Eng to Computer Science.
+
 On February 2021 I started to study front-end development whit HTML, CSS and JavaScript
 I'm Currently studying ReactJS, and my futures plan is to become a Full-Stack developer. [And Who knows, some CEO]
 
