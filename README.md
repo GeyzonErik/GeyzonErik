@@ -33,5 +33,4 @@ I'm Currently studying ReactJS, and my futures plan is to become a Full-Stack de
 
 ## Where To Find Me
 <a href='https://twitter.com/Erikles47' target='_blank'> <img src='https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-512.png' width='42px'> </a>
-<a href='https://www.instagram.com/_geyzon_/' target='_blank'> <img src='https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-512.png' width='42px'> </a>
 <a href='https://www.linkedin.com/in/jos%C3%A9-costa-json/' target='_blank'> <img src='https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png' width='42px'> </a>
