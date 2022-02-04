@@ -24,9 +24,8 @@ I'm Currently studying ReactJS, and my futures plan is to become a Full-Stack de
 | Finished              | Studying                  | To Study                  |
 |   ---------------     |   --------------          |   --------                |
 |- [X] HTML             | - [ ] ReactJS             | - [ ] Node.JS             |
-|- [X] CSS              |                           | - [ ] TypeScript          |
-|- [X] JavaScript       |                           | - [ ] Java                |
-|                       |                           | - [ ] MongoDB             |
+|- [X] CSS              | - [ ] JAVA                | - [ ] TypeScript          |
+|- [X] JavaScript       |                           | - [ ] MongoDB             |
 |                       |                           | - [ ] MySQL / PostgreSQL  |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeyzonErik&show_icons=true&border_radius=0&hide_border=true&title_color=3498db&icon_color=3498db&hide=stars)
