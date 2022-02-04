@@ -18,7 +18,7 @@ I'm Currently studying ReactJS, and my futures plan is to become a Full-Stack de
 
 >:computer: Computer Science Student
 >
->:snowflake: I'm current studying ReactJS
+>:snowflake: I'm current studying ReactJS and JAVA
 
 #### languages and frameworks:
 | Finished              | Studying                  | To Study                  |
