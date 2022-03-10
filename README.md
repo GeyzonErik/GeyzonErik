@@ -24,7 +24,7 @@ I'm Currently studying ReactJS, and my futures plan is to become a Full-Stack de
 | Finished              | Studying                  | To Study                  |
 |   ---------------     |   --------------          |   --------                |
 |- [X] HTML             | - [ ] ReactJS             | - [ ] Node.JS             |
-|- [X] CSS              | - [ ] JAVA                | - [ ] TypeScript          |
+|- [X] CSS              |                           | - [ ] TypeScript          |
 |- [X] JavaScript       |                           | - [ ] MongoDB             |
 |                       |                           | - [ ] MySQL / PostgreSQL  |
 
