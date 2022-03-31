@@ -21,12 +21,13 @@ I'm Currently studying ReactJS, and my futures plan is to become a Full-Stack de
 >:snowflake: I'm current studying ReactJS and JAVA
 
 #### languages and frameworks:
-| Finished              | Studying                  | To Study                  |
+| Experience            | Studying                  | Interested                |
 |   ---------------     |   --------------          |   --------                |
 |- [X] HTML             | - [ ] ReactJS             | - [ ] Node.JS             |
 |- [X] CSS              |                           | - [ ] TypeScript          |
-|- [X] JavaScript       |                           | - [ ] MongoDB             |
+|- [X] JavaScript       |                           | - [ ] NextJS              |
 |                       |                           | - [ ] MySQL / PostgreSQL  |
+|                       |                           | - [ ] MongoDB             |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeyzonErik&show_icons=true&border_radius=0&hide_border=true&title_color=3498db&icon_color=3498db&hide=stars)
 
