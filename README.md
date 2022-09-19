@@ -11,7 +11,7 @@ profile = {
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [erikles.geyzon@gmail.com](mailto:erikles.geyzon@gmail.com)
-*   🧠  I'm learning TypeScript and NextJS
+*   🧠  I'm learning TypeScript Java, and Angular
 *   🤝  I'm open to collaborating on Anything related to education
 
 HI, You can call me Geyzon!
@@ -22,12 +22,11 @@ I'm currently searching for my first job opportunity
 
 ### Languages and Frameworks:
 
-| Experience            | Studying                  | Interested                |
-|   ---------------     |   --------------          |   --------                |
-|- [X] HTML             | - [ ] ReactJS             | - [ ] Node.JS             |
-|- [X] CSS              | - [ ] TypeScript          | - [ ] MongoDB             |
-|- [X] JavaScript       | - [ ] NextJs              | - [ ] ExpressJS           |
-|                       |                           | - [ ] NestJs              |
+| Experience            | Studying                  |
+|   ---------------     |   --------------          |
+|- [X] HTML             | - [ ] Angular             |
+|- [X] CSS              | - [ ] TypeScript          |
+|- [X] JavaScript       | - [ ] Anguar              |
 
 
 ### Socials
