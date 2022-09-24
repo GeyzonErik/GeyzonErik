@@ -26,7 +26,7 @@ I'm currently searching for my first job opportunity
 |   ---------------     |   --------------          |
 |- [X] HTML             | - [ ] Angular             |
 |- [X] CSS              | - [ ] TypeScript          |
-|- [X] JavaScript       | - [ ] Anguar              |
+|- [X] JavaScript       | - [ ] Java                |
 
 
 ### Socials
