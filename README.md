@@ -34,4 +34,4 @@ I'm currently searching for my first job opportunity
 
 ### Socials
 
-<a href="https://www.github.com/GeyzonErik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Github_white.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/geyzoncosta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/LinkedIN_white.png" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/geyzoncosta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" width="32" height="32" /></a>
