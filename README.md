@@ -22,14 +22,14 @@ Started in the Programming World in the second semester of 2020, and this took m
 I'm highly motivated to constantly develop my skills and grow professionally.
 I'm currently searching for my first job opportunity
 
-### Languages and Frameworks:
+### Languages, Frameworks, Tools...:
 
-|     Front-End             |  |     Back-End              |
-|   ---------------         |--|   --------------          |
-|- [X] HTML                 |  | - [X] Ruby                |
-|- [X] CSS                  |  | - [X] Ruby on Rails       |
-|- [X] JavaScript           |  | - [X] SQL                 |
-|- [X] ReactJS              |  |                           |
+|     Front-End             |  |     Back-End              |  |        Database         |
+|   ---------------         |--|   --------------          |--|     ---------------     |
+|- [X] HTML                 |  | - [X] Ruby                |  | -[X] SQL                |
+|- [X] CSS                  |  | - [X] Ruby on Rails       |  | -[X] Supabase           |
+|- [X] JavaScript           |  |                           |  |                         |
+|- [X] ReactJS              |  |                           |  |                         |
 
 
 ### Socials
