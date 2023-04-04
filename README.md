@@ -13,7 +13,7 @@ profile = {
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [erikles.geyzon@gmail.com](mailto:erikles.geyzon@gmail.com)
-*   🧠  I'm learning Ruby, Ruby on Rails and SQL
+*   🧠  I'm learning Node.JS, ExpressJs, and PostgreSQL
 *   🤝  I'm open to collaborating on Anything related to education
 
 HI, You can call me Geyzon!
@@ -26,9 +26,9 @@ I'm currently searching for my first job opportunity
 
 |     Front-End             |  |     Back-End              |  |        Database         |
 |   ---------------         |--|   --------------          |--|     ---------------     |
-|- [X] HTML                 |  | - [X] Ruby                |  | -[X] SQL                |
-|- [X] CSS                  |  | - [X] Ruby on Rails       |  | -[X] Supabase           |
-|- [X] JavaScript           |  |                           |  |                         |
+|- [X] HTML                 |  | - [X] Ruby                |  | -[X] PostgreSQL         |
+|- [X] CSS                  |  | - [X] Node.Js             |  | -[X] Supabase           |
+|- [X] JavaScript           |  | - [X] ExpressJs           |  |                         |
 |- [X] ReactJS              |  |                           |  |                         |
 
 
