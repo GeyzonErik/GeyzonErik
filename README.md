@@ -4,7 +4,7 @@
 profile = {
     firstName: 'José',
     lastName: 'Costa',
-    age: 20years,
+    age: 21years,
     location: 'Pernambuco-Brazil'
 }
 ```
@@ -13,7 +13,8 @@ profile = {
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [erikles.geyzon@gmail.com](mailto:erikles.geyzon@gmail.com)
-*   🧠  I'm learning Node.JS, ExpressJs, and PostgreSQL
+*   🧠  I'm learning Node.JS, NestJs, and PostgreSQL
+*   🧠  I'm also learning Angular and Vue3
 *   🤝  I'm open to collaborating on Anything related to education
 
 HI, You can call me Geyzon!
@@ -26,9 +27,9 @@ I'm currently searching for my first job opportunity
 
 |     Front-End             |  |     Back-End              |  |        Database         |
 |   ---------------         |--|   --------------          |--|     ---------------     |
-|- [X] HTML                 |  | - [X] Ruby                |  | -[X] PostgreSQL         |
+|- [X] HTML                 |  | - [X] Nest                |  | -[X] PostgreSQL         |
 |- [X] CSS                  |  | - [X] Node.Js             |  | -[X] Supabase           |
-|- [X] JavaScript           |  | - [X] ExpressJs           |  |                         |
+|- [X] JavaScript/TypeScript|  | - [X] ExpressJs           |  |                         |
 |- [X] ReactJS              |  |                           |  |                         |
 
 
