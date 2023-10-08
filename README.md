@@ -17,20 +17,20 @@ profile = {
 *   🧠  I'm also learning Angular and Vue3
 *   🤝  I'm open to collaborating on Anything related to education
 
-HI, You can call me Geyzon!
+Hi, You can call me Geyzon!
 
-Started in the Programming World in the second semester of 2020, and this took me to change my undergraduate program from Mechanical Eng to Computer Science.
-I'm highly motivated to constantly develop my skills and grow professionally.
+I started in the Programming World in the second semester of 2020, which caused me to change my undergraduate program from Mechanical Eng to Computer Science.
+I'm highly motivated to develop my skills and grow professionally constantly.
 I'm currently searching for my first job opportunity
 
 ### Languages, Frameworks, Tools...:
 
 |     Front-End             |  |     Back-End              |  |        Database         |
 |   ---------------         |--|   --------------          |--|     ---------------     |
-|- [X] HTML                 |  | - [X] Nest                |  | -[X] PostgreSQL         |
-|- [X] CSS                  |  | - [X] Node.Js             |  | -[X] Supabase           |
-|- [X] JavaScript/TypeScript|  | - [X] ExpressJs           |  |                         |
-|- [X] ReactJS              |  |                           |  |                         |
+|- [X] ReactJS              |  | - [X] Nest.Js             |  | -[X] PostgreSQL         |
+|- [X] Next                 |  | - [X] Node.Js             |  | -[X] Supabase           |
+|- [X] Angular              |  | - [X] ExpressJs           |  |                         |
+|- [X] JavaScript/TypeScript|  |                           |  |                         |
 
 
 ### Socials
