@@ -19,7 +19,6 @@ profile = {
 
 Hi, You can call me Geyzon and currenty I'm working as a Backend developer in the creation of an academic, non-profit product using NestJS, Swagger, Docker, Node, TypeScript, and Prisma, among other tools, in order to build the Rest API for the product.
 I'm highly motivated to develop my skills and grow professionally constantly.
-I'm currently searching for my first job opportunity
 
 ### Languages, Frameworks, Tools...:
 
