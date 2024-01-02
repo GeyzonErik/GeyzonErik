@@ -23,8 +23,7 @@ I'm currently searching for my first job opportunity
 
 ### Languages, Frameworks, Tools...:
 
-[![Languages](https://skillicons.dev/icons?i=javascript,typescript,docker,prisma,styledcomponents,jest,ruby,python,figma,react,materialui,next,angular,nodejs,express,nest,postgres,supabase,&perline=6)]()
-
+[![Languages](https://skillicons.dev/icons?i=javascript,typescript,docker,prisma,styledcomponents,jest,ruby,python,figma,react,materialui,next,angular,nodejs,express,nest,postgres,supabase&perline=6)]()
 
 ### Socials
 
