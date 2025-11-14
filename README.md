@@ -4,7 +4,7 @@
 profile = {
     firstName: 'José',
     lastName: 'Costa',
-    age: 23years,
+    age: 24years,
     location: 'Pernambuco-Brazil'
 }
 ```
@@ -13,15 +13,15 @@ profile = {
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can reach me at [erikles.geyzon@gmail.com](mailto:erikles.geyzon@gmail.com)
-*   🧠  I'm working with Node.JS, NestJs, and PostgreSQL
+*   🧠  I'm working with Node.JS stack (mainly NestJs)
 *   📖  Currently learning Go and C#
 *   🤝  I'm open to collaborating on Anything related to education
 
 I'm highly motivated to develop my skills and grow professionally constantly.
 
-### Languages, Frameworks, Tools...:
+<!-- ### Languages, Frameworks, Tools...: -->
 
-[![Languages](https://skillicons.dev/icons?i=javascript,typescript,docker,prisma,jest,ruby,go,python,nextjs,express,nodejs,nest,redis,postgres,supabase&perline=6)]()
+<!-- [![Languages](https://skillicons.dev/icons?i=javascript,typescript,docker,prisma,jest,ruby,go,python,nextjs,express,nodejs,nest,redis,postgres,supabase&perline=6)]() -->
 
 ### Socials
 
